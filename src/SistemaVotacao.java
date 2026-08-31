@@ -101,6 +101,22 @@ public class SistemaVotacao{
                 continue;
             }
 
+            String nome;
+
+            do {
+                System.out.print("Nome do candidato: ");
+                nome = scanner.nextLine().trim();
+
+                if (nome.isEmpty()) {
+                    System.out.println("O nome não pode ficar vazio.");
+                }
+            } while (nome.isEmpty());
+
+            numerosCandidatos[i] = numero;
+            nomesCandidatos[i] = nome;
+            votosCandidatos[i] = 0;
+            quantidadeCandidatos++;
+
             boolean numeroRepetido = false;
 
             for (int j = 0; j < i; j++) {
