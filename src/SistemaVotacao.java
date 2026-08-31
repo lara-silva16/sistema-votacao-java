@@ -10,3 +10,4 @@ public class SistemaVotacao{
         scanner.close();
     }
 }
+
