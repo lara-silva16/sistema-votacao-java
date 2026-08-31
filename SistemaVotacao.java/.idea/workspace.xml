@@ -5,36 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49d15f94-134b-422e-83e0-bb74f2804c6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Joga_da_Velha/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JogadaVelha/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JogadaVelha/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JogadaVelha/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JogadaVelha/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JogadaVelha/Joga_da_Velha.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JogadaVelha/src/Joga_Da_Velha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JogoDaVelha" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_calculadora/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_calculadora/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_calculadora/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_calculadora/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_calculadora/java_calculadora.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_calculadora/src/calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_exercicios/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_exercicios/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_exercicios/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_exercicios/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_exercicios/java_exercicios.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_exercicios/src/Ex02AreaQuadrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_exercicios/src/Ex03Arearetangular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_exercicios/src/Ex04DiferencaIdade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_exercicios/src/estruturasdecontrole/Ex01tabuada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_exercicios/src/estruturasdecontrole/Ex02imc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_exercicios/src/estruturasdecontrole/Ex03intervaloparimpar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_exercicios/src/estruturasdecontrole/Ex04divisaocontrolada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_exercicios/src/funtamentos/Ex01Idade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sistema-votacao-java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SistemaVotacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SistemaVotacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sistema-votacao-java" beforeDir="false" afterPath="$PROJECT_DIR$/../sistema-votacao-java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +37,7 @@
     "Application.SistemaVotacao.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
