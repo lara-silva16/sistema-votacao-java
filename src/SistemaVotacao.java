@@ -30,6 +30,15 @@ public class SistemaVotacao{
 
         return indiceEncontrado;
     }
+    static void mostrarCandidatos() {
+        System.out.println("\nCandidatos disponíveis:");
+
+        for (int i = 0; i < quantidadeCandidatos; i++) {
+            System.out.println(
+                    numerosCandidatos[i] + " - " + nomesCandidatos[i]
+            );
+        }
+    }
 
 
     public static void main(String[] args){
