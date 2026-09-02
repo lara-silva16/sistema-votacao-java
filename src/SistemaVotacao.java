@@ -18,6 +18,20 @@ public class SistemaVotacao{
     static int quantidadeCandidatos = 0;
 
 
+    static int buscarCandidato(int numero) {
+        int indiceEncontrado = -1;
+
+        for (int i = 0; i < quantidadeCandidatos; i++) {
+            if (numerosCandidatos[i] == numero) {
+                indiceEncontrado = i;
+                break;
+            }
+        }
+
+        return indiceEncontrado;
+    }
+
+
     public static void main(String[] args){
         int opcao;
 
@@ -95,6 +109,7 @@ public class SistemaVotacao{
             numero = lerInteiro(
                     "\nNúmero do candidato " + (i + 1) + ": "
             );
+
 
             if (numero <= 0) {
                 System.out.println("O número deve ser maior que zero.");
