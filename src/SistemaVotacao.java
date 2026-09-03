@@ -136,6 +136,17 @@ public class SistemaVotacao{
                     break;
                 case 3:
                     System.out.println("Resultado selecionado.");
+
+                    int totalVotos = 0;
+
+                    for (int i = 0; i < quantidadeCandidatos; i++) {
+                        totalVotos += votosCandidatos[i];
+                    }
+
+                    if (totalVotos == 0) {
+                        System.out.println("Nenhum voto foi registrado.");
+                        return;
+                    }
                     break;
                 case 4:
                     System.out.println("Matriz selecionada.");
@@ -250,6 +261,10 @@ public class SistemaVotacao{
             }
         }
     }
+
+
+
+
 
 
 
