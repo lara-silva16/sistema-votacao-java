@@ -117,7 +117,7 @@ public class SistemaVotacao{
 
             switch (opcao) {
                 case 1:
-                    System.out.println("Cadastro selecionado.");
+                    cadastrarCandidatos();
                     break;
                 case 2:
 
@@ -198,7 +198,7 @@ public class SistemaVotacao{
 
                     break;
                 case 4:
-                    System.out.println("Matriz selecionada.");
+                    exibirMatrizVotos();
                     break;
 
                 case 5:
